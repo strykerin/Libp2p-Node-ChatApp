@@ -1,7 +1,11 @@
 # Libp2p Node ChatApp
-How to run:
-```javascript
+## How to run:
+Run first node:
+```
 node .\src\moon.js
+```
+Run second node:
+```
 node .\src\earth.js
 ```
 
